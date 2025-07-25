@@ -119,7 +119,6 @@ O **Deu Jogo** é um aplicativo móvel que permite:
 
 ### 10.2 Limitação
 - Nossa responsabilidade é limitada ao valor pago pelo serviço
-- Em caso de uso gratuito, responsabilidade limitada a R$ 100,00
 
 ## 11. Indenização
 
@@ -149,7 +148,7 @@ O **Deu Jogo** é um aplicativo móvel que permite:
 
 ### 13.2 Jurisdição
 - Lei brasileira aplicável
-- Foro da comarca de [sua-cidade]
+- Foro da comarca de Tatuí
 - Renúncia a outros foros
 
 ## 14. Modificações dos Termos
@@ -185,14 +184,12 @@ O **Deu Jogo** é um aplicativo móvel que permite:
 
 ### 16.1 Dúvidas
 - **E-mail:** devfsystem@gmail.com
-- **Telefone:** (15) 99748-8076
-- **Endereço:** [seu-endereço]
 
 ### 16.2 Notificações
 - Notificações oficiais por e-mail: devfsystem@gmail.com
-- Consideradas recebidas em 24h
+- Consideradas recebidas em 48h
 - Manter e-mail atualizado
 
 ---
 
-**Deu Jogo** - Termos claros para uma experiência segura. 
+**Deu Jogo** - Termos claros para uma experiência segura.

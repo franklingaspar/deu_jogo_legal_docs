@@ -165,19 +165,16 @@ O **Deu Jogo** ("nós", "nosso", "aplicativo") é um aplicativo móvel desenvolv
 
 ### 12.1 Dúvidas e Solicitações
 - **E-mail:** devfsystem@gmail.com
-- **Telefone:** (15) 99748-8076
-- **Endereço:** [seu-endereço]
 
 ### 12.2 Horário de Atendimento
 - **Segunda a Sexta:** 9h às 18h
-- **Sábado:** 9h às 12h
 - **Feriados:** Não atendemos
 
 ## 13. Disposições Finais
 
 ### 13.1 Lei Aplicável
 - **Jurisdição:** Lei brasileira
-- **Foro:** Comarca de [sua-cidade]
+- **Foro:** Comarca de Tatuí
 
 ### 13.2 Aceitação
 - **Uso do App:** Implica aceitação desta política
@@ -185,4 +182,4 @@ O **Deu Jogo** ("nós", "nosso", "aplicativo") é um aplicativo móvel desenvolv
 
 ---
 
-**Deu Jogo** - Gerenciando campeonatos com privacidade e segurança. 
+**Deu Jogo** - Gerenciando campeonatos com privacidade e segurança.
